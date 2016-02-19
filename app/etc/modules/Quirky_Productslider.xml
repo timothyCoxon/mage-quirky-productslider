@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Quirky_Productslider>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Quirky_Productslider>
+    </modules>
+</config>
+

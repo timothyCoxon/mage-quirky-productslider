@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!-- app/code/community/Quirky/Productslider/etc/config.xml -->
+<config>
+    <modules>
+        <Quirky_Productslider>
+            <version>0.1.0</version>
+        </Quirky_Productslider>
+    </modules>
+    <global>
+        <models>
+            <productslider>
+                <class>Quirky_Productslider_Model</class>
+            </productslider>
+        </models>
+        <blocks>
+            <productslider>
+                <class>Quirky_Productslider_Block</class>
+            </productslider>
+        </blocks>
+    </global>
+</config>
